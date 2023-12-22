@@ -1,5 +1,11 @@
-![CarbonFreed Logo White](https://github.com/CarbonFreed-AI/.github/assets/2773378/0e9e60b9-0993-46ae-86a2-6c8f99fd2695#gh-dark-mode-only)
-![CarbonFreed Logo Black](https://github.com/CarbonFreed-AI/.github/assets/2773378/5619f07d-47fa-4130-9275-f014750e293c#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CarbonFreed-AI/.github/assets/2773378/0e9e60b9-0993-46ae-86a2-6c8f99fd2695">
+  <img alt="CarbonFreed GmbH Logo in black">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CarbonFreed-AI/.github/assets/2773378/5619f07d-47fa-4130-9275-f014750e293c">
+  <img alt="CarbonFreed GmbH Logo in white">
+</picture>
 
 # Accelerating the Energy Transition with AI
 
